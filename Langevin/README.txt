@@ -25,4 +25,4 @@ read data files and produce raster plots.
 5. supplem contains the Matlab scripts employed to generate the figures and analysis,
 included as Supplemental Material.
 
-For any question, feel free to contact: daniele.linaro@unige.it, marco.storace@unige.it, and michele.giugliano@ua.ac.be
+For any question, feel free to contact: daniele@tnb.ua.ac.be, michele.giugliano@uantwerpen.be
